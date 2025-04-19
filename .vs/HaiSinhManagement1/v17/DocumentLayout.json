@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoctap\\QT CSDL\\final\\haisinh\\HaiSinhManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB70516-3990-407B-A75E-85BD6CCF354F}|HaiSinhManagement\\HaiSinhManagement.csproj|d:\\hoctap\\qt csdl\\final\\haisinh\\haisinhmanagement\\haisinhmanagement\\kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB70516-3990-407B-A75E-85BD6CCF354F}|HaiSinhManagement\\HaiSinhManagement.csproj|solutionrelative:haisinhmanagement\\kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB70516-3990-407B-A75E-85BD6CCF354F}|HaiSinhManagement\\HaiSinhManagement.csproj|d:\\hoctap\\qt csdl\\final\\haisinh\\haisinhmanagement\\haisinhmanagement\\bh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB70516-3990-407B-A75E-85BD6CCF354F}|HaiSinhManagement\\HaiSinhManagement.csproj|solutionrelative:haisinhmanagement\\bh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KH.cs",
+              "DocumentMoniker": "D:\\Hoctap\\QT CSDL\\final\\haisinh\\HaiSinhManagement\\HaiSinhManagement\\KH.cs",
+              "RelativeDocumentMoniker": "HaiSinhManagement\\KH.cs",
+              "ToolTip": "D:\\Hoctap\\QT CSDL\\final\\haisinh\\HaiSinhManagement\\HaiSinhManagement\\KH.cs",
+              "RelativeToolTip": "HaiSinhManagement\\KH.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAAC4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:34:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BH.cs",
+              "DocumentMoniker": "D:\\Hoctap\\QT CSDL\\final\\haisinh\\HaiSinhManagement\\HaiSinhManagement\\BH.cs",
+              "RelativeDocumentMoniker": "HaiSinhManagement\\BH.cs",
+              "ToolTip": "D:\\Hoctap\\QT CSDL\\final\\haisinh\\HaiSinhManagement\\HaiSinhManagement\\BH.cs",
+              "RelativeToolTip": "HaiSinhManagement\\BH.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAuwPoBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:28:52.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
